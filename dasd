@@ -1,0 +1,49 @@
+[33mcommit 28f2cff0a48b84ec1525a8b25b91fc9b9cc6ad8a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Sun Oct 16 10:47:54 2022 -0700
+
+    Add Readme
+    
+    Co authored-by: Charles Cookman <github-charlesbcookman@gmail.com>
+
+[33mcommit 90a65699d89edb29c3e46effd176784d7eae09ac[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Fri Oct 14 11:40:22 2022 -0700
+
+    Add Strong and EM text in header, add hyperlink
+
+[33mcommit 021984603ad8b55ceda842d461c10e31adf073ad[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Fri Oct 14 10:46:43 2022 -0700
+
+    Fixed Spacing on List's and Typos
+
+[33mcommit e393fbfbcca03a5e27e4365b8d8217a19e8bdf7b[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Fri Oct 14 10:40:34 2022 -0700
+
+    Fixed text body spacing
+
+[33mcommit df63fc6b77025124108771ef5a1d820c0938e0a8[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Fri Oct 14 10:36:02 2022 -0700
+
+    add web page with info on favorite things
+
+[33mcommit 9c4e925079d319e1e069c35cff1849d18285cc6d[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Fri Oct 14 10:11:05 2022 -0700
+
+    add final, official HTML elm DOCTYPE, head, title, body
+
+[33mcommit c6283b0fc02834f02d60b66c3f7b8252c25596bc[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Thu Oct 13 21:26:08 2022 -0700
+
+    add list elements
+
+[33mcommit c8b6f4f33a87579fccc9d0f58a9373776e88db79[m
+Author: Ambi Hidalgo <ambio.pk@gmail.com>
+Date:   Thu Oct 13 21:19:03 2022 -0700
+
+    add initial paragraph block elements to the page
